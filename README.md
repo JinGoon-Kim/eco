@@ -1,4 +1,4 @@
-lang : 한국어. | [Eng](https://github.com/namjugood/project_Eco/blob/master/README.md)
+lang : 한국어. | [Eng](https://github.com/JinGoon-Kim/eco/blob/main/READEME_eng.md)
 
 # Project : ECO
 ![count](https://img.shields.io/github/languages/count/JinGoon-Kim/eco)
@@ -48,3 +48,5 @@ lang : 한국어. | [Eng](https://github.com/namjugood/project_Eco/blob/master/R
 - 데이터의 흐름은 아래의 색깔선 방향으로 움직입니다.
 
 ![image](https://user-images.githubusercontent.com/80030590/112624274-bdfeb600-8e70-11eb-83dd-ef9a6206773a.png)
+
+README 제작자 [NJ Lee](https://https://github.com/namjugood)
