@@ -30,7 +30,7 @@ insert into theme(tseq, title) values(theme_seq.nextval, 'ㅠㅠ');
 insert into theme(tseq, title) values(theme_seq.nextval, 'ㄱㅇㄷ');
 
 -- chart
-insert into chart(cseq, title, img) values(chart_seq.nextval, 'FLO 차트', null);
+insert into chart(cseq, title, img) values(chart_seq.nextval, 'ECO 차트', null);
 insert into chart(cseq, title, img) values(chart_seq.nextval, '지금 급상승 중', null);
 insert into chart(cseq, title, img) values(chart_seq.nextval, '해외 소셜 차트', null);
 
@@ -520,21 +520,51 @@ insert into music(mseq, abseq, atseq, theme, chart, gseq, title, content, titley
 insert into music(mseq, abseq, atseq, theme, chart, gseq, title, content, titleyn, musicby, lyricsby, producingby, src) values(music_seq.nextval, 81, 18, '', '1|2', 1, '꽃길을 걸어요', '솔직히 첫눈에 반한 건진 <br>모르겠어요 그댄 어땠었나요 <br>자꾸만 생각이 나고 <br>생각나면 너무 보고 싶고 <br>한 번도 느껴본 적이 없던 <br>이 설렘 <br>뻔하고 단순했던 <br>내 미래가 그댈 만나고 <br>살아 움직이네요 <br>뭐든지 할 수 있을 거란 용기 <br>조금 더 멋지게 살고 싶은 <br>욕심까지 난 변했죠 <br>그대를 만나 사랑이라는 것을 <br>처음 알았어요 <br>애써 믿으려 말아요 <br>나를 따라오란 말은 <br>하지 않을 거에요 <br>My love <br>영원히 둘이 같이 가자 말할래요 <br>더 기다리긴 싫어요 <br>God bless you I pray for you<br>그댄 나와 꽃길을 걸어요 <br>혼자서도 그럭저럭 잘 살아왔죠 <br>운명이란 건 사치라고 여기며 <br>그대를 만나서야 <br>매 순간이 의미 있다는 걸 <br>느낄 수가 있었어요 <br>그대 덕이죠 <br>내 인생을 바꿔논 Love you<br>사랑이라는 것을 <br>처음 알았어요 <br>애써 믿으려 말아요 <br>나를 따라오란 말은 <br>하지 않을 거에요 <br>My love <br>영원히 둘이 같이 가자 말할래요 <br>더 기다리긴 싫어요 <br>God bless you I pray for you<br>그댄 나와 꽃길을 걸어요 <br>살다 보면 힘든 일들도 <br>어쩔 수 없는 다툼 <br>오해들도 있겠죠 <br>허나 내가 먼저 손 내밀고 <br>진심으로 대할 게요 <br>아무 걱정 하지 말아요 <br>그대를 만나 사랑이라는 것을 <br>처음 알았어요 <br>애써 의심치 말아요 <br>나만 믿어 달란 말은 <br>하지 않을 거에요 <br>My love<br>영원히 둘이 함께하자 <br>말할래요 더 주저하긴 싫어요 <br>God bless you I pray for you<br>그댄 나와 평생을 걸어요', 'N', '멧돼지, 늑대', '이선화', '멧돼지, 늑대, RikaC', 'https://docs.google.com/uc?export=open&id=1zb-z8oj6NadhQxadY3AWq6zUlnXXA6NO');
 insert into music(mseq, abseq, atseq, theme, chart, gseq, title, content, titleyn, musicby, lyricsby, producingby, src) values(music_seq.nextval, 81, 18, '', '1|2', 1, '괜찮은지 몰라서', '우리는 그렇게 이별했죠 <br>그 모든 게 더 나을 것처럼 <br>그날에 고백이 떠오르는 밤 <br>미안해요 말뿐인 게 돼서 <br>힘겹게 내 곁을 지켜주던 <br>그대여 이젠 부디 행복해요 <br>서로가 가시처럼 아팠던 그때 <br>어떤 위로가 필요해 울었던가요 <br>괜찮아지려 노력하지 않을게요 <br>그대 아직 아파할 텐데 <br>너무나 아픈 그 사랑 <br>담담해질 때까지 <br>푸르던 그 날 그대였음을 <br>언제나 기억할게요 <br>힘겹게 내 곁을 지켜주던 <br>그대여 이젠 부디 행복해요 <br>서로가 가시처럼 아팠던 그때 <br>어떤 위로가 필요해 울었던가요 <br>괜찮아지려 노력하지 않을게요 <br>그대 괜찮은지 몰라서 <br>너무나 아픈 그 사랑 <br>담담해질 때까지 <br>아직 항상 곁에 <br>있는 것처럼 머물러요 <br>미련한 후회뿐이죠 <br>서로가 보내준 걸 어쩌겠어요 <br>다만 난 내가 <br>좀 더 아프길 바라요 <br>흐려져 무뎌질 때까지 <br>괜찮아지려 노력하지 않을게요 <br>눈부시게 아름다운<br>그대 아직 아파할 텐데 <br>너무나 아픈 그 사랑 <br>담담해질 때까지 <br>푸르던 그 날 그대였음을 <br>언제나 기억할게요', 'N', '임창정, 멧돼지, 220', '임창정', '멧돼지, RikaC', 'https://docs.google.com/uc?export=open&id=1wHxSTMX4JHH3N6p6Iit4c8ZqJS0eMY9Z');
 
--- bundle_master
-insert into bundle_master(bmseq, useq, title, useyn) values (bundle_master_seq.nextval, 0, '그리움 가득한 밤 문득 생각나는 발라드', 'Y');
-insert into bundle_master(bmseq, useq, title, useyn) values (bundle_master_seq.nextval, 0, '퇴근길에 신나는 노래', 'Y');
-insert into bundle_master(bmseq, useq, title, useyn) values (bundle_master_seq.nextval, 1, '나의 리스트 1', 'Y');
-insert into bundle_master(bmseq, useq, title, useyn) values (bundle_master_seq.nextval, 1, '나의 리스트 2', 'Y');
+-- bundle
 
--- bundle_detail
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 1, 1);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 1, 2);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 2, 1);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 2, 2);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 3, 1);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 3, 2);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 4, 1);
-insert into bundle_detail(bdseq, bmseq, mseq) values (bundle_detail_seq.nextval, 4, 2);
+insert into bundle_master(bmseq, useq, title) values (bundle_master_seq.nextval, 0, 	'제목만으로도
+신나는 노래');
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 78);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 337);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 62);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 191);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 330);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 77);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 1, 75);
+
+insert into bundle_master(bmseq, useq, title) values (bundle_master_seq.nextval, 0, 	'그리움 가득한 밤
+문득 생각나는
+발라드');
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 335);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 320);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 314);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 307);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 298);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 2, 281);
+
+insert into bundle_master(bmseq, useq, title) values (bundle_master_seq.nextval, 0, 	'봄이오면
+듣고싶어지는');
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 129);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 123);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 187);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 178);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 176);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 115);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 349);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 3, 200);
+
+
+insert into bundle_master(bmseq, useq, title) values (bundle_master_seq.nextval, 0, 	'김나박이');
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 277);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 295);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 302);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 299);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 274);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 276);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 261);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 249);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 307);
+insert into bundle_detail(bdseq, bmseq, mseq) values(bundle_detail_seq.nextval, 4, 310);
 
 -- music_like
 insert into music_like(mseq, useq) values(1, 1);
