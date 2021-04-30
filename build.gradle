@@ -2,6 +2,7 @@ plugins {
 	id 'org.springframework.boot' version '2.4.2'
 	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
 	id 'java'
+	id 'war'
 }
 
 group = 'com.eco'
@@ -26,7 +27,7 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	implementation 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.4'
 	implementation group: 'commons-beanutils', name: 'commons-beanutils', version: '1.9.4'
-	compile 'com.oracle:ojdbc6:11.2.0.3'
+	runtimeOnly 'mysql:mysql-connector-java'
 	compile group: 'org.springframework.boot', name: 'spring-boot-devtools'
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'

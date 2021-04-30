@@ -115,7 +115,7 @@
 	</select>
 	<!-- 메인에서 번들마스터에 의한 곡목록  -->
 	<select id="musicListByBundle" resultType="com.eco.dto.MusicVO">
-		select bd.bdseq, m.* from bundle_detail bd
+		select bd.bdseq, m.* from BUNDLE_DETAIL bd
 			left join music_view m on m.mseq = bd.mseq
 		where bd.bmseq = #{param1}
 		order by bd.bdseq
