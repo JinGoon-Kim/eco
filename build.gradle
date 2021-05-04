@@ -36,6 +36,10 @@ dependencies {
 	implementation fileTree(dir: 'libs', include: ['*.jar'])
 }
 
+bootJar{
+	archiveFileName = 'eco.jar'
+}
+
 test {
 	useJUnitPlatform()
 }
